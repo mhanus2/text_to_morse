@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "text-to-morse"
-version = "0.1.0"
-description = ""
+version = "1.0.0"
+description = "Console application for conversion of given text to morse code"
 authors = ["mhanus2 <mhmartinhanus@gmail.com>"]
 readme = "README.md"
 
